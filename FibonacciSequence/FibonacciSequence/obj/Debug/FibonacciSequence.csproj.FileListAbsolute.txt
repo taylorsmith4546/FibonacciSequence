@@ -1,0 +1,6 @@
+C:\Dev\Code Challenges\C#\FibonacciSequence\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe.config
+C:\Dev\Code Challenges\C#\FibonacciSequence\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.exe
+C:\Dev\Code Challenges\C#\FibonacciSequence\FibonacciSequence\FibonacciSequence\bin\Debug\FibonacciSequence.pdb
+C:\Dev\Code Challenges\C#\FibonacciSequence\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.csprojResolveAssemblyReference.cache
+C:\Dev\Code Challenges\C#\FibonacciSequence\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.exe
+C:\Dev\Code Challenges\C#\FibonacciSequence\FibonacciSequence\FibonacciSequence\obj\Debug\FibonacciSequence.pdb
